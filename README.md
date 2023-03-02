@@ -7,7 +7,7 @@ My motivation for building this webpage was to connect businesses to potential c
 "N/A"
 
 ## Usage
-the usage has been stated in the description but for a visual aid please refer to assets/screenshots. 
+The usage has been stated in the description but for a visual aid please refer to assets/screenshots. 
 
 ## Credits
 "N/A"
