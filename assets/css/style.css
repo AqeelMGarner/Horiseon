@@ -10,26 +10,26 @@ body {
 
 .header {
     padding: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;/* text font for header*/
+    background-color: #2a607c;/*colour for the background of the header*/
     color: #ffffff;
 }
 
 .header h1 {
     display: inline-block;
-    font-size: 48px;
+    font-size: 48px;/*size of header text*/
 }
 
 .header h1 .seo {
-    color: #d9dcd6;
+    color: #d9dcd6;/*colour for the 'seo' in Horiseon*/
 }
 
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;/*font for the text inside of nav element*/
+    font-size: 20px;/*size of font for nav element*/
 }
 
 .header nav ul {
@@ -37,7 +37,7 @@ body {
 }
 
 .header nav ul li {
-    display: inline-block;
+    display: inline-block;/*how the text should be displayed*/
     margin-left: 25px;
 }
 
@@ -50,9 +50,9 @@ a {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
+    background-image: url("../images/digital-marketing-meeting.jpg");/*image for background*/
+    background-size: cover;/*size of the image*/
+    background-position: center;/*position of image*/
 }
 
 .content {
@@ -62,61 +62,61 @@ a {
 }
 
 p {
-    font-size: 16px;
+    font-size: 16px;/*test size for all p elements*/
 }
 
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;/*font for search-engine-optimization*/
+    background-color: #0072bb;/*background colour of search-engine-optimization*/
+    color: #ffffff;/*colour of text for search-engine-optimization*/
 }
 
 .search-engine-optimization img {
-    max-height: 200px;
+    max-height: 200px;/*size of the image in search-engine-optimization*/
 }
 
 .search-engine-optimization h2 {
     margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 36px;/*text size for h2 elements in search-engine-optimization*/
 }
 
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;/*font for online-reputation-management*/
+    background-color: #0072bb;/*background colour for online-reputation-management*/
+    color: #ffffff;/*colour of text for online-reputation-management*/
 }
 
 .online-reputation-management img {
-    max-height: 200px;
+    max-height: 200px;/*size of the image in online-reputation-management*/
 }
 
 .online-reputation-management h2 {
     margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 36px;/*text size for h2 elements in online-reputation-management*/
 }
 
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;/*font for social-media-marketing*/
+    background-color: #0072bb;/*background colour for social-media-marketing*/
+    color: #ffffff;/*colour of text for social-media-marketing*/
 }
 
 .social-media-marketing img {
-    max-height: 200px;
+    max-height: 200px;/*size of image in social-media-marketing*/
 }
 
 .social-media-marketing h2 {
     margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 36px;/*text size for h2 elements in social-media-marketing*/
 }
 
 .float-left {
@@ -136,54 +136,54 @@ p {
     float: right;
     width: 20%;
     height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;/*font for the elements in benefits*/
+    background-color: #2589bd;/*background colour for elements in benefits*/
 }
 
 .benefit-lead {
     margin-bottom: 32px;
-    color: #ffffff;
+    color: #ffffff;/*colour for the text inside of benefit-lead*/
 }
 
 .benefit-lead h3 {
     margin-bottom: 10px;
-    text-align: center;
+    text-align: center;/*how h3 text is aligned in benefit-lead*/
 }
 
 .benefit-lead img {
-    display: block;
+    display: block;/*how the image in benefit-lead is displayed*/
     margin: 10px auto;
     max-width: 150px;
 }
 
 .benefit-brand {
     margin-bottom: 32px;
-    color: #ffffff;
+    color: #ffffff;/*colour for the text inside of benefit-brand*/
 }
 
 .benefit-brand h3 {
     margin-bottom: 10px;
-    text-align: center;
+    text-align: center;/*how h3 text is aligned in benefit-brand*/
 }
 
 .benefit-brand img {
-    display: block;
+    display: block;/*how the image in benefit-brand is displayed*/
     margin: 10px auto;
     max-width: 150px;
 }
 
 .benefit-cost {
     margin-bottom: 32px;
-    color: #ffffff;
+    color: #ffffff;/*colour for the text inside of benefit-cost*/
 }
 
 .benefit-cost h3 {
     margin-bottom: 10px;
-    text-align: center;
+    text-align: center;/*how h3 text is aligned in benefit-cost*/
 }
 
 .benefit-cost img {
-    display: block;
+    display: block;/*how the image in benefit-cost is displayed*/
     margin: 10px auto;
     max-width: 150px;
 }
@@ -191,10 +191,10 @@ p {
 .footer {
     padding: 30px;
     clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;/*font for the elements inside footer*/
+    text-align: center;/*how the text is aligned in footer*/
 }
 
 .footer h4 {
-    font-size: 20px;
+    font-size: 20px;/*size of h4 text inside footer*/
 }
