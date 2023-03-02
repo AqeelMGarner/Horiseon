@@ -7,7 +7,10 @@ My motivation for building this webpage was to connect businesses to potential c
 "N/A"
 
 ## Usage
-The usage has been stated in the description but for a visual aid please refer to the links. ![screenshot-1](assets/screenshots/Screenshot-1.png), ![screenshot-2](assets/screenshots/Screenshot-2.png), ![screenshot-3](assets/screenshots/Screenshot-3.png).
+The usage has been stated in the description but for a visual aid please refer to the images below.
+ ![screenshot-1](assets/screenshots/Screenshot-1.png)
+ ![screenshot-2](assets/screenshots/Screenshot-2.png)
+ ![screenshot-3](assets/screenshots/Screenshot-3.png)
 
 ## Credits
 "N/A"
