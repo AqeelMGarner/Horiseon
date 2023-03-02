@@ -5,18 +5,18 @@
 }
 
 body {
-    background-color: #d9dcd6;
+    background-color: #d9dcd6;/*background colour for elements inside the body tag*/
 }
 
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;/* text font for header*/
     background-color: #2a607c;/*colour for the background of the header*/
-    color: #ffffff;
+    color: #ffffff;/*colour of the text inside header*/
 }
 
 .header h1 {
-    display: inline-block;
+    display: inline-block;/*how h1 text is display in the header*/
     font-size: 48px;/*size of header text*/
 }
 
@@ -57,7 +57,7 @@ a {
 
 .content {
     width: 75%;
-    display: inline-block;
+    display: inline-block;/*how the elements inside class content are displayed*/
     margin-left: 20px;
 }
 
